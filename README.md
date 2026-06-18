@@ -1,2 +1,15 @@
-# shinerayacopiara
-um site para o proprietário local da loja de motos shineray em acopiara
+# Nome do Projeto
+
+## Descrição
+[Breve explicação do que o projeto faz]
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## Objetivo
+[Por que você criou este projeto]
+
+## Demonstração
+[Link do projeto online, se tiver]
